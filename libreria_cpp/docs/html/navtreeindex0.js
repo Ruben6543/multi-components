@@ -1,0 +1,24 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_verificador_d_n_i.html":[0,0,0],
+"class_verificador_d_n_i.html#a13ef329ddbb416ce24047e2a1aa6e08f":[0,0,0,2],
+"class_verificador_d_n_i.html#a4e3f48e8261e16d72dc5af640086a753":[0,0,0,1],
+"class_verificador_d_n_i.html#a961beae852c6804474964f282c30e268":[0,0,0,4],
+"class_verificador_d_n_i.html#aa69b4d68963c3be93e9cd3db861c3bbe":[0,0,0,0],
+"class_verificador_d_n_i.html#aaa4fcef505c4c289f531c09b148264e9":[0,0,0,3],
+"classes.html":[0,1],
+"dir_68267d1309a1af8e8297ef4c3efbcdba.html":[1,0,0],
+"dni__utils_8cpp.html":[1,0,0,0],
+"dni__utils_8h.html":[1,0,0,1],
+"dni__utils_8h.html#a9bb5811b4a2bdb3d39dccf8b708d3fe1":[1,0,0,1,1],
+"dni__utils_8h_source.html":[1,0,0,1],
+"files.html":[1,0],
+"functions.html":[0,2,0],
+"functions_func.html":[0,2,1],
+"functions_vars.html":[0,2,2],
+"globals.html":[1,1,0],
+"globals_defs.html":[1,1,1],
+"index.html":[],
+"pages.html":[]
+};
