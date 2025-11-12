@@ -20,7 +20,7 @@ public class Main {
             if (valido) {
                 System.out.println("El DNI " + input + " es valido.\n");
             } else {
-                System.out.println("El DNI " + input + " no es válido.\n");
+                System.out.println("El DNI " + input + " no es valido.\n");
             }
 
             System.out.println();
