@@ -1,0 +1,4 @@
+C:/Users/artur/OneDrive/Escritorio/University/UGR/Desarrollo de software/actividades/practica1/ejercicio_dni/libreria_cpp/build/CMakeFiles/dni_utils.dir
+C:/Users/artur/OneDrive/Escritorio/University/UGR/Desarrollo de software/actividades/practica1/ejercicio_dni/libreria_cpp/build/CMakeFiles/dni_validator.dir
+C:/Users/artur/OneDrive/Escritorio/University/UGR/Desarrollo de software/actividades/practica1/ejercicio_dni/libreria_cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/artur/OneDrive/Escritorio/University/UGR/Desarrollo de software/actividades/practica1/ejercicio_dni/libreria_cpp/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\ARTUR\ONEDRIVE\ESCRITORIO\UNIVERSITY\UGR\DESARROLLO DE SOFTWARE\ACTIVIDADES\PRACTICA1\EJERCICIO_DNI\LIBRERIA_CPP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/artur/OneDrive/Escritorio/University/UGR/Desarrollo de software/actividades/practica1/ejercicio_dni/libreria_cpp" "-BC:/Users/artur/OneDrive/Escritorio/University/UGR/Desarrollo de software/actividades/practica1/ejercicio_dni/libreria_cpp/build" --check-stamp-file "C:/Users/artur/OneDrive/Escritorio/University/UGR/Desarrollo de software/actividades/practica1/ejercicio_dni/libreria_cpp/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

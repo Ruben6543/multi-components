@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\artur\OneDrive\Escritorio\University\UGR\Desarrollo de software\actividades\practica1\ejercicio_dni\libreria_cpp\build\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\artur\OneDrive\Escritorio\University\UGR\Desarrollo de software\actividades\practica1\ejercicio_dni\libreria_cpp\build\Release\Release\dni_utils.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\artur\OneDrive\Escritorio\University\UGR\Desarrollo de software\actividades\practica1\ejercicio_dni\libreria_cpp\build\Release\Release\dni_validator.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

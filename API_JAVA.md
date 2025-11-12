@@ -92,4 +92,6 @@ Considere que el archivo _JAR_ se creará en el directorio especificado en el co
 
 # Extra
 
-Para visualizar el archivo readme API_CPP.md instale la extension _Markdown Preview Enhanced_ y dentro del archivo a visualizar utilice:   
+Para visualizar el archivo readme  API_CPP.md en VS Code instale la extension _Markdown Preview Enhanced_ y dentro del archivo a visualizar utilice:   
+
+cntrl + shift + v

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\artur\OneDrive\Escritorio\University\UGR\Desarrollo de software\actividades\practica1\ejercicio_dni\libreria_cpp\client\prueba.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\artur\OneDrive\Escritorio\University\UGR\Desarrollo de software\actividades\practica1\ejercicio_dni\libreria_cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8EBD1073-FE5D-3735-A34B-CE6C0067021D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

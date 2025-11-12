@@ -1,3 +1,7 @@
 
 
 .vscode/
+
+microservicio_python/venv
+microservicio_python/server.log
+microservicio_python/app/__pycache__

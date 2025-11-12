@@ -71,7 +71,7 @@ Podrá visualizar el siguiente mensaje en la consola, al mismo tiempo, la docume
 
 # Extra
 
-Para visualizar el archivo readme API_CPP.md instale la extension _Markdown Preview Enhanced_ y dentro del archivo a visualizar utilice:   
+Para visualizar el archivo readme API_CPP.md en VS Code instale la extension _Markdown Preview Enhanced_ y dentro del archivo a visualizar utilice:   
 
 cntrl + shift + v
 
